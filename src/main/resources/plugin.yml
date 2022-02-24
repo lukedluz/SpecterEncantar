@@ -1,0 +1,5 @@
+main: com.lucas.specterencantar.Main
+name: SpecterEncantar
+author: [Specter]
+softdepend: [SpecterDiamonds, Vault, LegendChat]
+version: 1.0

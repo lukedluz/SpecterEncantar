@@ -1,0 +1,32 @@
+#Sumário
+#%p - player
+#%q - quantidade
+
+#Encantamentos
+Sharpness:
+  Limite: 5
+  Preco: 500.0
+
+FireAspect:
+  Limite: 5
+  Preco: 500.0
+
+Unbreaking:
+  Limite: 5
+  Preco: 500.0
+
+Protection:
+  Limite: 5
+  Preco: 500.0
+
+Eficiencia:
+  Limite: 30
+  Preco: 500.0
+
+Looting:
+  Limite: 30
+  Preco: 500.0
+
+Explosivo:
+  Preco: 500.0
+  Chance: 0.5
